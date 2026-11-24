@@ -23,14 +23,14 @@
 2. Жүйе тәулік бойы үздіксіз жұмыс істеуі керек
 3. Рөлдер бойынша қолжетімділік бөлінуі керек (оператор, инженер, әкімші)
 
-## Диаграммалар
+<!--## Диаграммалар
 ### 1. Use Case
 <!-- Кейін толтырылады: 1-жұмыс -->
-![Use Case](docs/diagrams/01-usecase.png)
+<!--![Use Case](docs/diagrams/01-usecase.png)
 
 ### 2. Class
 <!-- Кейін толтырылады: 2-жұмыс -->
-![Class](docs/diagrams/02-class.png)
+<!--![Class](docs/diagrams/02-class.png)-->
 
 ### 3. Activity: Апаттық оқиғаны өңдеу
 ![Activity](docs/diagrams/03-activity.png)
